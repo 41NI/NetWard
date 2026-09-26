@@ -1,0 +1,8 @@
+# Go build and test artifacts
+*.exe
+*.test
+*.out
+*.prof
+
+# OS metadata
+.DS_Store
